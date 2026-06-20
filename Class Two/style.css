@@ -1,0 +1,97 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: #201313;
+}
+
+#letterSheet {
+    background-color: whitesmoke;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+    border-radius: 20px;
+    box-shadow: 3px 5px 10px rgb(186, 186, 186);
+    /* right bottom blur color */
+}
+
+
+.letterTopic {
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    color: rebeccapurple;
+    text-decoration: underline rebeccapurple;
+    text-transform: capitalize;
+    text-align: center;
+    /* text-shadow: 1px 2px 5px black; */
+}
+
+.greetings {
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 40px;
+    line-height: 32px;
+    /* word-spacing: ;
+    letter-spacing: ; */
+}
+
+h4 {
+    text-align: end;
+    color: rebeccapurple;
+}
+
+/* 
+4-9  
+    serif
+    sans serif
+    monospace
+    handwriting
+    decorative
+*/
+
+/* Peter James John Jesus Bola Kelly the son of Amore */
+
+
+/* 
+Colors
+Color Names - cockroach whine, onion purple, elephant breath, tomato red, skyblue, rebeccaPurple
+RGB - Red Green Blue
+RGBA - Red Green Blue Alpha
+Hex Code
+
+4 ways
+3 values - 0 0 0 - R G B
+4 values - 0 0 0 0 - R G B A
+6 values - 00 00 00  - R G B
+8 values - 00 00 00 00 - R G B A
+
+
+Hex - hexadecimal - 16 - 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+*/
+
+
+/* 
+12
+3
+
+
+
+40/4 = 10
+*/
+
+
+
+/* 
+Font family
+color
+image
+*/
